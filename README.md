@@ -1,5 +1,4 @@
 # Network-analysis_Policy-effect-on-scientific-collaboration
-Analyzing the effect of the implementation of a policy on a network of scientists.
 
 We have a network consisting of individual agents, specifically scientists. The cluster
 has been observed during two subsequent periods of time - before and after a policy
